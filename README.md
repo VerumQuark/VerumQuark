@@ -14,15 +14,16 @@ About my personal stuff:
 
 Technologies:
 
-React Redux Express.js 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 Databases:
 
-MongoDB
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 📧 How to reach me: chichukko@gmail.com
 
 My GitHub stats:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VerumQuark&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerumQuark&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
